@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo 'Please restart gnome-shell using Alt+F2 and typing in the command r'
+echo 'You can enable the extension using: '
+echo "gsettings set org.gnome.shell enabled-extensions [\'plus-panel@plus-us.gel.usherbrooke.ca\']"

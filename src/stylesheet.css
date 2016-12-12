@@ -1,0 +1,9 @@
+.plus-panel {
+    height: 4em;
+    background-color: rgba(0,0,0,0.75);
+    font-weight: bold;
+}
+
+#overview {
+    padding-bottom: 4em;
+}

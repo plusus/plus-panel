@@ -1,0 +1,13 @@
+Source: pluspanel
+Maintainer: Samuel Longchamps <samuel.longchamps@usherbrooke.ca>
+Section: gnome
+Priority: optional
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), autoconf, automake (>= 1:1.11), gnome-common, gettext
+
+Package: pluspanel
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, gnome-shell (>= 3.14), gnome-menus, gir1.2-gmenu-3.0
+Recommends: gnome-tweak-tool (>= 3.14)
+Description: PLUS-Panel gnome-shell extension
+ Custom panel for the debian-based PLUS distribution

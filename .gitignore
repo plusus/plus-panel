@@ -1,0 +1,59 @@
+# Created by https://www.gitignore.io/api/anjuta,linux,autotools
+
+### Anjuta ###
+# Local configuration folder and symbol database
+/.anjuta/
+/.anjuta_sym_db.db
+
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
+### Autotools ###
+# http://www.gnu.org/software/automake
+
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/autoscan.log
+/autoscan-*.log
+/aclocal.m4
+/compile
+/config.h.in
+/configure
+/configure.scan
+/depcomp
+/install-sh
+/missing
+
+# Executable
+
+**/Makefile
+/Makefile.in
+/autom4te.cache/
+/config.guess
+/config.h
+/config.log
+/config.status
+/config.sub
+/m4/
+/stamp-h?
+.deps/
+.dirstamp
+*.o
+*~
+
+/builddeb/
+libtool

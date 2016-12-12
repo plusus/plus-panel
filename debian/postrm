@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'Please restart gnome-shell using Alt+F2 and typing in the command r'

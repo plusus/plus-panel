@@ -1,0 +1,23 @@
+pluspanel (1.0-1) unstable; urgency=medium
+
+  * 1.0 first release.
+
+ -- Antoine Girard-Vallee  <antoine.girard-vallee@usherbrooke.ca>  Wed, 29 Nov 2016 15:30:00 -0400
+
+pluspanel (0.3-1) UNRELEASED; urgency=medium
+
+  * Fixed bug related to the taskbar returning to the top upon a screen resolution change.
+
+ -- Samuel Longchamps <samuel.longchamps@usherbrooke.ca>  Mon, 20 Oct 2016 21:26:00 -0400
+
+pluspanel (0.2-1) UNRELEASED; urgency=medium
+
+  * Removed hot corners.
+
+ -- Samuel Longchamps <samuel.longchamps@usherbrooke.ca>  Mon, 18 Oct 2016 15:54:00 -0400
+
+pluspanel (0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Samuel Longchamps <samuel.longchamps@usherbrooke.ca>  Mon, 04 Apr 2016 13:25:52 -0400
